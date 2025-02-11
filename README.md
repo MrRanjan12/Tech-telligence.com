@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website! This project showcases my skills, experience, and projects in web development. It is designed to provide a professional and interactive platform where visitors can learn more about my work and get in touch with me.
 
 ## 🔗 Live Demo
-[Visit My Portfolio](https://mrranjan12.github.io/MyPortfolio/)
+[Visit My Website](https://mrranjan12.github.io/Tech-telligence.com/)
 
 ## 🛠️ Technologies Used
 - **Frontend:** HTML, CSS, JavaScript, jQuery, Bootstrap
